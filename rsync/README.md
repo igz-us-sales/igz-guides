@@ -5,7 +5,7 @@ In this guide, we will sync a local directory to the Iguazio cluster using the `
 2. [Download SSH Key to Local Machine](#2-download-ssh-key-to-local-machine)
 3. [Ensure SSH Port is Open (optional)](#3-ensure-ssh-port-is-open-optional)
 4. [Test SSH Connection and Download Rsync](#4-test-ssh-connection-and-download-rsync)
-5. [Create Directories to Sync](#5-create-directoties-to-sync)
+5. [Create Directories to Sync](#5-create-directories-to-sync)
 6. [Sync Local Files to Remote Directory](#6-sync-local-files-to-remote-directory)
 7. [Daily Usage](#7-daily-usage)
 
