@@ -139,7 +139,7 @@ Which shows us the files we expected!
 
 ## 7. Daily Usage
 
-Once the web shell/SSH key/directories are in place, the daily usage is quite simple. Simple run the following sync command whenever there are updates to the local directory:
+Once the web shell/SSH key/directories are in place, the daily usage is quite simple. Simply run the following sync command whenever there are updates to the local directory:
 
 ```bash
 rsync -avz -e "ssh -i /Users/nick/Downloads/ssh.key -p 30110" /Users/nick/Downloads/sync/ iguazio@default-tenant.app.us-sales-32.iguazio-cd0.com:/User/sync --rsync-path=/igz/rsync
